@@ -1,0 +1,4 @@
+--- Hotel Bill Receipt ---
+Customer Name: Akash
+Total Amount: Rs. 3000 (3 days)
+---------------------------
